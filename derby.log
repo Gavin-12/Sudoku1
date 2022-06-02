@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri May 27 17:49:55 NZST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0181-0410-70c4-00001647abf0 
+on database directory F:\0-CandiceDrive\603 P3\Assignment2-03Jun\Sudoku\sudoku  with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/candi/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_321-b07
+user.dir=F:\0-CandiceDrive\603 P3\Assignment2-03Jun\Sudoku
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
